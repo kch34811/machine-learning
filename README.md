@@ -1,4 +1,4 @@
-![Montanuniversität Leoben](https://img.shields.io/badge/MontanuniversitätLeoben-%239a034c)
+![Montanuniversität Leoben](https://img.shields.io/badge/MontanuniversitätLeoben-%088A85)
 ![CSED273](https://img.shields.io/badge/CSED273-gray)
 ![Verilog](https://img.shields.io/badge/Verilog-yellow)
 
